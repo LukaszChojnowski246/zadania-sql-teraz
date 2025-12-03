@@ -1,4 +1,4 @@
-# zadania-sql-teraz (zrobione)
+# zadania-sql-teraz-zrobione
 
 
 fajnie jest polecam 
